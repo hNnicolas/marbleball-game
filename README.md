@@ -1,4 +1,4 @@
-# the ball game
+# marbleball-game
 
 ## Description
 
@@ -10,4 +10,4 @@ Try it out [here](https://marbleballgame.netlify.app/).
 
 ![screenshot](./screenshot.png)
 
-# marbleball-game
+
